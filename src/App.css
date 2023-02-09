@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -36,4 +36,17 @@
   100% {
     transform: translateY(0px);
   }
+}
+
+.site-footer {
+  text-align: center;
+}
+
+.site-footer a:hover {
+  background-color: #000000;
+  transition: background-color 2s;
+}
+
+.navbar {
+  background-color: rgb(4, 101, 101); 
 }
